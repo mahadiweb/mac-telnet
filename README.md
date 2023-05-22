@@ -3,13 +3,13 @@ Mac Telnet
 ### Main source [Link](https://github.com/haakonnessjoen/MAC-Telnet/)
 
 
-### Install Cmmand
+## Install Command
 ##### Centos
-`yum install https://www.ngtech.co.il/repo/centos/7/x86_64/mactelnet-client-0.4.4-2.el7.centos.x86_64.rpm`
+`sudo yum install https://www.ngtech.co.il/repo/centos/7/x86_64/mactelnet-client-0.4.4-2.el7.centos.x86_64.rpm`
 ##### Ubuntu
 `sudo apt-get install  mactelnet-client`
 
-#### Basic Commad
+### Basic Command
 * Help:
 `mactelnet -h`
 
